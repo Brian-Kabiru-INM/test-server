@@ -1,4 +1,41 @@
-https://teams.microsoft.com/l/chat/19:meeting_M2I1NWRhYmUtYTBhOS00MDE4LWJiNjUtOWU3ZWU1MmY4ODdm@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D
+Fikisha Goalz
 
-Meeting ID: 315 346 761 430
-Passcode: bF7oo7BE
+Create goal
+
+{{platform}}_fikisha_goalz_{{button_action}} e.g.
+
+webweb_fikisha_goalz_create_goal
+
+webweb_fikisha_goalz_create_goal
+
+androidandroid_fikisha_goalz_create_goal
+
+iosios_fikisha_goalz_create_goal
+
+
+
+Set your targets
+
+{{platform}}_fikisha_goalz_{{button_action}} e.g.
+
+webweb_fikisha_goalz_set_your_targets
+
+webweb_fikisha_goalz_set_your_targets
+
+androidandroid_fikisha_goalz_set_your_targets
+
+iosios_fikisha_goalz_set_your_targets
+
+
+
+Add deposit amount
+
+{{platform}}_fikisha_goalz_{{button_action}} e.g.
+
+webweb_fikisha_goalz_add_deposit_amount
+
+webweb_fikisha_goalz_add_deposit_amount
+
+androidandroid_fikisha_add_deposit_amount
+
+iosios_fikisha_goalz_add_deposit_amount
